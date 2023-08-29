@@ -53,6 +53,8 @@ Interpréteur de référence: MRI (CRuby)
 
 Bibliothèques: Gems
 
+Documentation CLI: ri
+
 #### Mots réservés
 
 Mots réservés (39) : 
