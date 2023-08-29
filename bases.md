@@ -14,7 +14,6 @@ Paradigmes : Interprété, objet, impératif, concurrent, fonctionnel
 
 * Développer rapidement et en y prenant du plaisir,
 * Principe de moindre surprise.
-
 * toute donnée est un objet, y compris les types primitifs ;
 * toute fonction est une méthode ;
 * toute variable est une référence à un objet ;
@@ -34,21 +33,21 @@ Standardisation : ISO 30170:2012 (payant)
 
 Extension d'un fichier Ruby : **rb**
 
-Exécuter mon_fichier.rb : ruby mon_fichier.rb
+Exécuter mon_fichier.rb : `ruby mon_fichier.rb`
 
-Accéder aux options de l'interpréteur : ruby -h
+Accéder aux options de l'interpréteur : `ruby -h`
 
-Première ligne d'un fichier sous Linux : #!/usr/bin/ruby
+Première ligne d'un fichier sous Linux : `#!/usr/bin/ruby`
 
 Accéder à la console interactive : **irb, pry**
 
-Affichage sur la sortie standard (console) : puts
+Affichage sur la sortie standard (console) : `puts`
 
 Le programme le plus simple en Ruby : `puts "Hello World!"`
 
 Interprétation de code dans une chaîne : `puts "#{a+1}"`
 
-Gestion de package: RVM, rbenv
+Gestion de package et environnement: RVM, rbenv
 
 Interpréteur de référence: MRI (CRuby)
 
