@@ -51,6 +51,8 @@ Gestion de package et environnement: RVM, rbenv
 
 Interpréteur de référence: MRI (CRuby)
 
+Bibliothèques: Gems
+
 #### Mots réservés
 
 Mots réservés (39) : 
